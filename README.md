@@ -44,13 +44,26 @@ A dataset was provided for a long holiday vacation in Honolulu, Hawaii and to he
 
     All of the above queries were returned in Jsonify
 
-    
-    
+# Analysis 
+
+Looking at the dataset and graphs for percipitaion and station analysis , it shows that following are the station in descending order that were most active 
+[('USC00519281', 2772),
+ ('USC00519397', 2724),
+ ('USC00513117', 2709),
+ ('USC00519523', 2669),
+ ('USC00516128', 2612),
+ ('USC00514830', 2202),
+ ('USC00511918', 1979),
+ ('USC00517948', 1372),
+ ('USC00518838', 511)]
 
 
 
 
-screenshots 
- 
+Tutoring session
+Before and After hours  
+Reviewed lot of class activites 
 https://docs.sqlalchemy.org/en/20/orm/extensions/automap.html#sqlalchemy.ext.automap.automap_base
-
+https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/api/#module-flask_sqlalchemy
+https://www.tutorialspoint.com/sqlalchemy/sqlalchemy_core_connecting_to_database.html
+https://towardsdatascience.com/sqlalchemy-python-tutorial-79a577141a91
